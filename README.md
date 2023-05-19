@@ -1,8 +1,12 @@
 # NodeJS-Project
 In this project I have created some signup authentication as well I have performed some curd operations on employees. 
 First, we need to include a few packages for our Nodejs application -
-npm init
-npm install express --save
+* npm init
+* npm install express --save
+* npm install body-parser
+* npm install mongoose
+* npm install mssql
+* npm install nodemon
 
 
 
