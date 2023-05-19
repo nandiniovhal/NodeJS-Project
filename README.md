@@ -1,5 +1,5 @@
 # NodeJS-Project
-In this project I have created some signup authentication as well I have performed some curd operations on employees. 
+In this project I have created some signup authentication as well I have performed some curd operations on employees like add employee, view all as well any particular employee, update employee and delete employee. 
 
 First, we need to include a few packages for our Nodejs application -
 * npm init
